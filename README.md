@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ﻿# Challenge-BI---Alura
 
 Desafio BI da Alura: 4 bases para criação de dashboard
@@ -13,3 +14,7 @@ Desafio BI da Alura: 4 bases para criação de dashboard
 ⦁	tabela estoque - contém o registro de estoque dos produtos por mês
 
 [Dashboard AluraLog](https://drive.google.com/file/d/1ocx4CmNklKf3RJCPKK0sqWz2Kt_RtZ9F/view?usp=sharing)
+=======
+# Challenge-BI---Alura
+Desafio BI da Alura: 4 bases para criação de dashboard
+>>>>>>> 066e2d3983ff55b5efd3f17f5fd18f1299b30142
