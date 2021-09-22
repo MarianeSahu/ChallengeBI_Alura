@@ -18,6 +18,7 @@ Desafio BI da Alura: 4 bases para criação de dashboard
  - tabela estoque - contém o registro de estoque dos produtos por mês
 
 **Resultado**
+
 Construção de um dashboard usando o Power BI Desktop.
 
 [Dashboard AluraLog](https://drive.google.com/file/d/1ocx4CmNklKf3RJCPKK0sqWz2Kt_RtZ9F/view?usp=sharing)
@@ -33,12 +34,13 @@ Construção de um dashboard usando o Power BI Desktop.
  - Tabela_dispositivos - contém informações de acessos por dispositivo
  - Tabela_idade_e_genero - contém informações de pessoas que acessaram a página e realizaram ou não compras
 
-** Especificações**
+**Especificações**
 
  - As bases devem ser atualizadas automaticamente todos os dias as 9h da manhã
 	 - esse mecanismo só é possível ser configurado no app Power BI e não foi incrementado.
 
 **Resultado**
+
 Construção de um dashboard usando o Power BI Desktop.
 
 [Dashboard AluraShop](https://drive.google.com/file/d/1sToSajvtd_Q7ebbYn2A0P854ouNxWaUs/view?usp=sharing)
