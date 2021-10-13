@@ -47,7 +47,41 @@ Construção de um dashboard usando o Power BI Desktop.
 
 [Relacionamento das bases de dados](https://drive.google.com/file/d/1sWiwGML_h125JyXDyv3TgVIz9OsKqNUE/view?usp=sharing)
 
+## Semana 03/04: Desafio financeiro - Alura Store
 
+**Objetivo**: monitorar a campanha de marketing durante um mês.
+
+**Bases de dados**: sql
+
+ -  tabela notas fiscais
+ -  tabela produtos
+ -  tabela vendedores
+ -  tabela pedidos
+
+A leitura dos dados foi feita em Python usando as bibliotecas *sqlite3* e *pandas*. Para facilitar a importação no Power BI, os dados foram salvos em excel, cada tabela em uma aba.
+
+**Principais métricas**:
+
+ - Receita
+ - Lucro
+ - Custos dos produtos
+ - Despesas: fretes e impostos
+
+**Resultado**
+
+Construção de um dashboard usando o Power BI Desktop. Para os dados foram criadas 3 visualizações:
+
+ - [Dashboard AluraStore - Acompanhamento do
+   ano](https://drive.google.com/file/d/1w_7-4rl-PePMi2kL0UMJJFs9iLyCPt3O/view?usp=sharing): analise das métricas para um ano específico
+   
+ - [Dashboard AluraStore - Comparativo dos
+   anos](https://drive.google.com/file/d/1w_YajabJ29ndoSrRnS5v-RQ35h5EyfMu/view?usp=sharing): comparando os anos segundo as métricas propostas
+   
+- [Dashboard AluraStore - Cenários com
+   parâmetros](https://drive.google.com/file/d/1waq6-LkqoIillLGHuGnesZ5GNNSdYWFf/view?usp=sharing): variando preços dos produtos e valores dos custos e observando o impacto nas métricas
+
+[Relacionamento das bases de dados](https://drive.google.com/file/d/1-NYrqU_eVC1UgVBGc0fyksLEoEBclrcW/view?usp=sharing)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA4NjA4MzExMiwtMTI5NTYxOTkyOV19
+eyJoaXN0b3J5IjpbMTY1Mzc0OTA2NiwxODE3MDI0MTA0LC0zMT
+U3MzIxMjcsLTEyOTU2MTk5MjldfQ==
 -->
